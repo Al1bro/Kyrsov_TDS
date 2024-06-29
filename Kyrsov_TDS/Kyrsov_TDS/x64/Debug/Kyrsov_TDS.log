@@ -1,0 +1,18 @@
+﻿  Kyrsov_TDS.cpp
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(27,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(44,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(73,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(74,30): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(102,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(146,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(217,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(266,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(288,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(344,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(387,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(424,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(447,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(458,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(492,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Torop\source\repos\Kyrsov_TDS\Kyrsov_TDS.cpp(535,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Kyrsov_TDS.vcxproj -> C:\Users\Torop\source\repos\Kyrsov_TDS\x64\Debug\Kyrsov_TDS.exe
